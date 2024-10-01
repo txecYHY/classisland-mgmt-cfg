@@ -2,15 +2,15 @@
     "ServerKind": 0,
     "OrganizationName": "塘厦第二初级中学",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/txecYHY/classisland-mgmt-cfg/master/classplans.json",
+        "Value": "https://raw.githubusercontent.com/txecYHY/classisland-mgmt-cfg/main/classplans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/txecYHY/classisland-mgmt-cfg/master/timelayouts.json",
+        "Value": "https://raw.githubusercontent.com/txecYHY/classisland-mgmt-cfg/main/timelayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/txecYHY/classisland-mgmt-cfg/master/subjects.json",
+        "Value": "https://raw.githubusercontent.com/txecYHY/classisland-mgmt-cfg/main/subjects.json",
         "Version": 1
     }
 }
